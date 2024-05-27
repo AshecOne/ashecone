@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/AshecOne/AshecOne/main/header.png)
+![Header](https://i.imgur.com/https://web.facebook.com/photo.php?fbid=930479486989187&set=pb.100000814342286.-2207520000&type=3.jpg)
 
 # Hi there, I'm AshecOne! 👋
 
@@ -25,3 +25,39 @@ I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Jo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
 [![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=vercel)](https://ashecone.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:ashecone@gmail.com)
+
+# Hi there, I'm AshecOne! 👋
+
+Welcome to my GitHub profile! I’m a passionate Fullstack Web Developer, recently graduated from Purwadhika Job Connector Fullstack Web Development Bootcamp.
+
+## 🧑‍💻 About Me
+
+- 🌱 Currently honing my skills in fullstack web development.
+- 🔭 Working on my final project and excited to dive deeper into software development.
+
+## 💼 Skills
+
+**Frontend:**
+- JavaScript, TypeScript
+- React, Vite, Next.js
+- Tailwind CSS, HTML, CSS
+
+**Backend:**
+- Node.js, Express.js (REST API)
+- MySQL, Prisma (ORM)
+
+**DevOps:**
+- Docker
+
+## 🌟 Projects
+
+Check out my projects on my [portfolio website](https://ashecone.vercel.app/).
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-AshecOne-181717?style=for-the-badge&logo=github)](https://github.com/AshecOne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trian_Verson_Tumanan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
+
+---
+
+Thank you for visiting my profile! Have a great day! 😊
