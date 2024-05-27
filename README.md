@@ -1,6 +1,6 @@
 # Hi there, I'm AshecOne! 👋
 
-I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Job Connector Fullstack Web Development. I'm passionate about learning and growing in the world of software development.
+I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Job Connector Fullstack Web Development. I'm passionate about learning and growing in the world of software development. I have also completed the Data Analyst course on DataCamp, where I gained valuable skills in data analysis.
 
 ## 🛠 Tech Stack
 
@@ -13,6 +13,17 @@ I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Jo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## 📊 Data Analysis Skills
+
+I have completed the Data Analyst course on DataCamp, where I learned various data analysis techniques and tools. You can check out my DataCamp profile [here](https://www.datacamp.com/portfolio/AshecOne).
+
+## 🐧 Linux Experience
+
+I am proficient in using Linux as my primary operating system. I have gained experience in navigating the command line, managing files and directories, and utilizing various Linux tools and utilities.
 
 ## 📈 GitHub Stats
 
