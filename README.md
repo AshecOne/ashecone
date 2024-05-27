@@ -1,37 +1,42 @@
-![Header](https://raw.githubusercontent.com/AshecOne/AshecOne/main/header.png)
+# Hi there, I'm AshecOne! 👋
 
-# 👋 Halo, saya Ashec!
+Welcome to my GitHub profile! I’m a passionate Fullstack Web Developer, recently graduated from Purwadhika Job Connector Fullstack Web Development Bootcamp. I'm currently working on my final project and excited to dive deeper into the world of software development. Here’s a bit about me and what I’ve been up to:
 
-Saya adalah seorang pengembang web fullstack yang baru saja menyelesaikan bootcamp di Purwadhika Job Connector Fullstack Web Development. Meskipun saya baru memasuki dunia perangkat lunak, saya sangat antusias untuk terus belajar dan berkembang dalam bidang ini.
+## 🧑‍💻 About Me
 
-## 🚀 Teknologi yang Saya Kuasai
+- 🌱 I’m currently learning and honing my skills in fullstack web development.
+- 🔭 I’ve recently completed a comprehensive bootcamp where I learned a variety of technologies.
+- 🌐 I enjoy working on both frontend and backend projects, aiming to create seamless and efficient web applications.
 
-- **Bahasa Pemrograman:** JavaScript, TypeScript
-- **Front-end:** React, Vite, Next.js, HTML, CSS, Tailwind CSS
-- **Back-end:** Express.js, Node.js, REST API
+## 💼 Skills and Technologies
+
+### Frontend Development
+- **Languages:** JavaScript, TypeScript
+- **Libraries & Frameworks:** React, Vite, Next.js (most frequently used)
+- **Styling:** Tailwind CSS (preferred), HTML, CSS
+
+### Backend Development
+- **Languages & Frameworks:** Node.js, Express.js (REST API)
 - **Database:** MySQL, Prisma (ORM)
-- **Lainnya:** Docker
 
-## 📚 Proyek-proyek Saya
+### DevOps
+- **Containerization:** Docker
 
-Selama bootcamp, saya telah membuat beberapa proyek individu dan kelompok yang dapat Anda lihat di [website profil saya](https://ashecone.vercel.app/). Beberapa proyek yang saya banggakan antara lain:
+## 🌟 Projects
 
-- [Company Profile](https://web-lawyer.vercel.app/) - Webiste ini adalah profil perusahaan tentang pengacara
-- [Expense Tracker](https://ashecone.github.io/expense-tracker/dashboard) - Webapp ini adalah aplikasi untuk mencatat aliran keuangan
-- [Sayurmoms](https://sayurmoms.vercel.app/) - Website ini adalah e-commerce tentang sayur-mayur dibuat berkelompok
+I’ve worked on numerous individual and group projects throughout my learning journey. You can check out some of my work on my [portfolio website](https://ashecone.vercel.app/).
 
-## 🌱 Sedang Saya Pelajari
+## 📫 Get in Touch
 
-Saat ini, saya sedang fokus memperdalam pengetahuan saya tentang:
+- **GitHub:** [AshecOne](https://github.com/AshecOne)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ashecone/) (Update with your LinkedIn URL)
 
-- Arsitektur Microservices
-- Pengembangan Aplikasi Mobile dengan React Native
-- Pengoptimalan Performa Web
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!
 
-## 📫 Hubungi Saya
+## 🚀 Let's Connect!
 
-- Email: [ashecone@gmail.com](mailto:ashecone@gmail.com)
-- LinkedIn: [linkedin.com/in/ashecone/](https://www.linkedin.com/in/ashecone/)
-- Website: [ashecone.vercel.app](https://ashecone.vercel.app/)
+Connect with me to see what I'm currently working on and explore new opportunities together. I'm always open to learning and growing in the tech community.
 
-Terima kasih telah mengunjungi profil GitHub saya! Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi atau berkolaborasi dalam proyek-proyek menarik. 😊
+---
+
+Thank you for visiting my profile! Have a great day! 😊
