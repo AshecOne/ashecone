@@ -1,42 +1,27 @@
+![Header](https://raw.githubusercontent.com/AshecOne/AshecOne/main/header.png)
+
 # Hi there, I'm AshecOne! 👋
 
-Welcome to my GitHub profile! I’m a passionate Fullstack Web Developer, recently graduated from Purwadhika Job Connector Fullstack Web Development Bootcamp. I'm currently working on my final project and excited to dive deeper into the world of software development. Here’s a bit about me and what I’ve been up to:
+I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Job Connector Fullstack Web Development. I'm passionate about learning and growing in the world of software development.
 
-## 🧑‍💻 About Me
+## 🛠 Tech Stack
 
-- 🌱 I’m currently learning and honing my skills in fullstack web development.
-- 🔭 I’ve recently completed a comprehensive bootcamp where I learned a variety of technologies.
-- 🌐 I enjoy working on both frontend and backend projects, aiming to create seamless and efficient web applications.
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-## 💼 Skills and Technologies
+## 📈 GitHub Stats
 
-### Frontend Development
-- **Languages:** JavaScript, TypeScript
-- **Libraries & Frameworks:** React, Vite, Next.js (most frequently used)
-- **Styling:** Tailwind CSS (preferred), HTML, CSS
+![AshecOne's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshecOne&show_icons=true&theme=radical)
 
-### Backend Development
-- **Languages & Frameworks:** Node.js, Express.js (REST API)
-- **Database:** MySQL, Prisma (ORM)
+## 🌐 Connect with Me
 
-### DevOps
-- **Containerization:** Docker
-
-## 🌟 Projects
-
-I’ve worked on numerous individual and group projects throughout my learning journey. You can check out some of my work on my [portfolio website](https://ashecone.vercel.app/).
-
-## 📫 Get in Touch
-
-- **GitHub:** [AshecOne](https://github.com/AshecOne)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ashecone/) (Update with your LinkedIn URL)
-
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech!
-
-## 🚀 Let's Connect!
-
-Connect with me to see what I'm currently working on and explore new opportunities together. I'm always open to learning and growing in the tech community.
-
----
-
-Thank you for visiting my profile! Have a great day! 😊
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
+[![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=vercel)](https://ashecone.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:ashecone@gmail.com)
