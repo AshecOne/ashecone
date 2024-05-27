@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/https://web.facebook.com/photo.php?fbid=930479486989187&set=pb.100000814342286.-2207520000&type=3.jpg)
+![Header](https://web.facebook.com/photo.php?fbid=930479486989187&set=pb.100000814342286.-2207520000&type=3.jpg)
 
 # Hi there, I'm AshecOne! 👋
 
@@ -6,15 +6,15 @@ I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Jo
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![JavaScript](https://img.shields.io/badge/JavaScript-Ashec_One-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Ashec_One-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-Ashec_One-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Ashec_One-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Ashec_One-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Ashec_One-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Ashec_One-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-Ashec_One-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ashec_One-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -22,42 +22,6 @@ I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Jo
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
-[![Website](https://img.shields.io/badge/-Website-05122A?style=flat&logo=vercel)](https://ashecone.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:ashecone@gmail.com)
-
-# Hi there, I'm AshecOne! 👋
-
-Welcome to my GitHub profile! I’m a passionate Fullstack Web Developer, recently graduated from Purwadhika Job Connector Fullstack Web Development Bootcamp.
-
-## 🧑‍💻 About Me
-
-- 🌱 Currently honing my skills in fullstack web development.
-- 🔭 Working on my final project and excited to dive deeper into software development.
-
-## 💼 Skills
-
-**Frontend:**
-- JavaScript, TypeScript
-- React, Vite, Next.js
-- Tailwind CSS, HTML, CSS
-
-**Backend:**
-- Node.js, Express.js (REST API)
-- MySQL, Prisma (ORM)
-
-**DevOps:**
-- Docker
-
-## 🌟 Projects
-
-Check out my projects on my [portfolio website](https://ashecone.vercel.app/).
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-AshecOne-181717?style=for-the-badge&logo=github)](https://github.com/AshecOne)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trian_Verson_Tumanan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
-
----
-
-Thank you for visiting my profile! Have a great day! 😊
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashecone-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
+[![Website](https://img.shields.io/badge/Website-Ashecone-000000?style=for-the-badge&logo=vercel)](https://ashecone.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Ashecone-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashecone@gmail.com)
