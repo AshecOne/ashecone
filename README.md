@@ -1,5 +1,3 @@
-![Header](https://web.facebook.com/photo.php?fbid=930479486989187&set=pb.100000814342286.-2207520000&type=3)
-
 # Hi there, I'm AshecOne! 👋
 
 I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Job Connector Fullstack Web Development. I'm passionate about learning and growing in the world of software development.
@@ -22,6 +20,6 @@ I'm a fullstack web developer who recently completed a bootcamp at Purwadhika Jo
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashecone-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
 [![Website](https://img.shields.io/badge/Website-Ashecone-000000?style=for-the-badge&logo=vercel)](https://ashecone.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashecone-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashecone/)
 [![Email](https://img.shields.io/badge/Email-Ashecone-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashecone@gmail.com)
