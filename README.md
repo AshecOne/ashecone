@@ -1,8 +1,9 @@
 # Hi there, I'm AshecOne! 👋
 
-I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on comprehensive software development for robotics solutions with a focus on both frontend and backend integration. Previously completed a bootcamp at Purwadhika Job Connector Fullstack Web Development and have also completed the Data Analyst course on DataCamp.
+I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on comprehensive software development for robotics solutions with a focus on both frontend and backend integration. I'm also the **Founder** of **Insinyur Software Handal**, a startup developing innovative SaaS solutions for the mining industry.
 
 ## 🚀 Current Role & Responsibilities
+
 **Fullstack Engineer @ Widya Robotics**
 - Developing and maintaining full-stack applications for robotics solutions
 - Building and implementing website architecture for robotic system interfaces
@@ -11,7 +12,20 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 - Managing software deployment processes
 - Providing technical recommendations for product improvements
 
+**Founder @ PT Insinyur Software Handal - Tiang Bendera**
+- Leading development of innovative SaaS solutions for mining industry
+- Building mobile applications for geological data visualization
+- Developing subscription-based business model for mining technology
+- Creating breakthrough solutions for mining block model visualization
+
 ## 🎯 Featured Projects
+
+**Mining Block Model Visualization Mobile App**
+- Developing a breakthrough SaaS mobile application for mining industry
+- Created visual representation of geological block models on interactive maps
+- Built cross-section analysis and depth visualization features
+- Implemented PDF map reading and coordinate alignment capabilities
+
 **Vehicle Monitoring Web Application for Port Operations**
 - Developed a comprehensive webapp for vehicle monitoring at ports
 - Implemented counting and classification systems for vehicles
@@ -25,6 +39,7 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,6 +56,7 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Database & Storage**
@@ -62,11 +78,19 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 ### **Media & File Processing**
 ![HLS.js](https://img.shields.io/badge/HLS.js-FF6B35?style=for-the-badge&logo=javascript&logoColor=white)
 ![jsPDF](https://img.shields.io/badge/jsPDF-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
+![PDF-lib](https://img.shields.io/badge/PDF--lib-FF4444?style=for-the-badge&logo=javascript&logoColor=white)
 ![XLSX](https://img.shields.io/badge/XLSX-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DXF Parser](https://img.shields.io/badge/DXF_Parser-0066CC?style=for-the-badge&logo=autocad&logoColor=white)
 
 ### **Data Visualization**
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge&logo=react&logoColor=white)
+![Victory Native](https://img.shields.io/badge/Victory_Native-000000?style=for-the-badge&logo=react&logoColor=white)
+
+### **GIS & Mapping**
+![Turf.js](https://img.shields.io/badge/Turf.js-26D0CE?style=for-the-badge&logo=javascript&logoColor=white)
+![Proj4](https://img.shields.io/badge/Proj4-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![GeoJSON](https://img.shields.io/badge/GeoJSON-4CAF50?style=for-the-badge&logo=json&logoColor=white)
 
 ### **Authentication & Testing**
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
