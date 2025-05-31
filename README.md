@@ -1,6 +1,6 @@
 # Hi there, I'm AshecOne! 👋
 
-I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on comprehensive software development for robotics solutions with a focus on both frontend and backend integration. I'm also the **Founder** of **Insinyur Software Handal**, a startup developing innovative SaaS solutions for the mining industry.
+I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on comprehensive software development for robotics solutions with a focus on both frontend and backend integration. I'm also the **Co-Founder** of **Insinyur Software Handal**, a startup developing innovative SaaS solutions for the mining industry.
 
 ## 🚀 Current Role & Responsibilities
 
@@ -12,7 +12,7 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 - Managing software deployment processes
 - Providing technical recommendations for product improvements
 
-**Founder @ PT Insinyur Software Handal - Tiang Bendera**
+**Co-Founder @ PT Insinyur Software Handal - Tiang Bendera**
 - Leading development of innovative SaaS solutions for mining industry
 - Building mobile applications for geological data visualization
 - Developing subscription-based business model for mining technology
