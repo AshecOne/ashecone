@@ -1,6 +1,6 @@
 # Hi there, I'm AshecOne! 👋
 
-I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on comprehensive software development for robotics solutions with a focus on both frontend and backend integration. I'm also the **Co-Founder** of **Insinyur Software Handal**, a startup developing innovative SaaS solutions for the mining industry.
+I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on comprehensive software development for robotics solutions with a focus on both frontend and backend integration. I'm also the **Co-Founder** of **PT Insinyur Software Handal - Tiang Bendera**, a startup developing innovative SaaS solutions for the mining industry.
 
 ## 🚀 Current Role & Responsibilities
 
@@ -20,17 +20,51 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 
 ## 🎯 Featured Projects
 
-**Mining Block Model Visualization Mobile App**
+### Professional Projects (Widya Robotics)
+
+**ASDP Vehicle Monitoring System**
+- Developed a comprehensive vehicle monitoring web application for port operations
+- Implemented AI-powered vehicle classification through camera integration
+- Built automatic license plate recognition and real-time counting systems
+- Created comprehensive dashboard reporting for each operational shift
+- Integrated role-based access control for secure user management
+
+**Pupuk Kaltim Monitoring & Classification System**
+- Built an advanced fertilizer monitoring and classification system
+- Reproduced and enhanced original design previously developed by AISeeYou vendor
+- Completely redesigned the entire user interface and architecture
+- Customized features to precisely match client requirements for fertilizer production monitoring
+
+### Startup Projects (PT Insinyur Software Handal)
+
+**Mine.Lite - Mining Block Model Visualization Mobile App**
 - Developing a breakthrough SaaS mobile application for mining industry
 - Created visual representation of geological block models on interactive maps
 - Built cross-section analysis and depth visualization features
 - Implemented PDF map reading and coordinate alignment capabilities
+- Designed subscription-based monetization model for mining professionals
 
-**Vehicle Monitoring Web Application for Port Operations**
-- Developed a comprehensive webapp for vehicle monitoring at ports
-- Implemented counting and classification systems for vehicles
-- Built license plate recognition functionality
-- Integrated real-time monitoring capabilities for port traffic management
+### Personal Projects
+
+**Chess Game with Fachri (AI-Powered)**
+- Built a chess game with AI trained on 2000 ELO-rated dataset using PyTorch
+- Implemented interactive chat feature for enhanced user experience
+- Created in memory of a friend who was passionate about chess
+
+**RoboWater - Smart Plant Watering IoT App**
+- Developed React Native mobile app integrated with IoT technology
+- Used ESP8266 and servo motor for automated plant watering
+- Integrated with Blynk platform for remote water valve control
+
+**Web App Blog Platform**
+- Built full-stack blogging platform with Next.js, React, and Redux
+- Implemented MySQL database with Prisma ORM and Express.js backend
+- Created user-friendly content management system
+
+**Money Tracker App**
+- Developed financial transaction tracking application
+- Built with Next.js frontend and MySQL database with Express API
+- Implemented search functionality for stored transaction records
 
 ## 🛠 Tech Stack
 
