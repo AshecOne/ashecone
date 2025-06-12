@@ -30,10 +30,11 @@ I'm a **Fullstack Engineer** at **Widya Robotics** in Yogyakarta, working on com
 - Integrated role-based access control for secure user management
 
 **Pupuk Kaltim Monitoring & Classification System**
-- Built an advanced fertilizer monitoring and classification system
-- Reproduced and enhanced original design previously developed by AISeeYou vendor
-- Completely redesigned the entire user interface and architecture
-- Customized features to precisely match client requirements for fertilizer production monitoring
+- Developed advanced fertilizer production monitoring and classification system
+- Implemented AI-powered product classification through integrated camera systems
+- Built automated quality assessment and real-time production monitoring capabilities
+- Created comprehensive reporting dashboards with intuitive user interface
+- Customized features to meet specific fertilizer manufacturing operational requirements
 
 ### Startup Projects (PT Insinyur Software Handal)
 
